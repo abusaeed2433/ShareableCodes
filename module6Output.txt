@@ -1,0 +1,44 @@
+------------------- Breathe Start -------------------
+Mammal breath
+100.0
+Mammal breath
+200.0
+Reptile breath
+50.0
+Reptile breath
+100.0
+Fish breath
+400.0
+Fish breath
+500.0
+------------------ Breathe End ---------------------
+
+------------------- Hair Start --------------------
+Cow hair
+Camel hair
+------------------- Hair End ----------------------
+
+------------------- Bask Start --------------------
+Turtle bask
+Crocodile bask
+------------------- Bask End ----------------------
+
+------------------- Eggs Start --------------------
+Shark eggs
+Tuna eggs
+------------------- Eggs End ----------------------
+
+------------------- Swim Start --------------------
+Reptile is swimming...
+Reptile is swimming...
+Fish is swimming...
+Fish is swimming...
+------------------- Swim  End  --------------------
+
+------------------- Walk Start --------------------
+Mammal is walking...
+Mammal is walking...
+Reptile is waking...
+Reptile is waking...
+------------------- Walk  End  --------------------
+
